@@ -1,3 +1,8 @@
+<h3>▶️ Demo Video </h3>
+
+https://github.com/user-attachments/assets/e91f739f-5969-4490-b5e1-8662b452c35a
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +39,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+## Contact
+If you have any feedback, feel free to reach out:
+- LinkedIn : https://www.linkedin.com/in/yashk9293/
+- GitHub : https://github.com/yashk9293
